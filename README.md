@@ -23,10 +23,10 @@ Estructura del repositorio.
     .gitignore
     Archivo para excluir archivos y carpetas del control de versiones.
     
-    Instalación
+Instalación
     Clona el repositorio:
 
-  git clone https://github.com/barboza1104/Proyecto.git
+      git clone https://github.com/barboza1104/Proyecto.git
 Ingresa al directorio del proyecto:
 
     cd Proyecto
@@ -36,10 +36,14 @@ Ingresa al directorio del proyecto:
     source venv/bin/activate  # En Linux/Mac
     .\venv\Scripts\activate   # En Windows
     
-  Instala las dependencias necesarias (si existe un archivo requirements.txt):
+Instala las dependencias necesarias (si existe un archivo requirements.txt):
+    
     pip install -r requirements.txt
+
 Uso
-  Ejecuta el archivo principal:
-    python main.py
+Ejecuta el archivo principal:
+        
+        python main.py
 Para pruebas, puedes ejecutar:
-    python test_camera.py
+        
+        python test_camera.py
