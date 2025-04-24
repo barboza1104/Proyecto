@@ -1,9 +1,9 @@
-Proyecto
+Clasificacion de imagenes
 
 Descripción
-Este repositorio contiene el código fuente de un proyecto en Python. Actualmente, no se ha proporcionado una descripción detallada del objetivo o funcionalidad del proyecto. Si eres el autor, se recomienda añadir una breve explicación sobre el propósito y alcance del mismo para que otros usuarios puedan comprenderlo fácilmente.
+Este repositorio contiene el código fuente de un proyecto en Python. Tiene como objetivo desarrollar una red neuronal convolucional (CNN) para clasificar imágenes
+Estructura del repositorio.
 
-Estructura del repositorio
     src/
     Carpeta principal del código fuente.
     
