@@ -1,5 +1,4 @@
 Proyecto
-Repositorio público para el proyecto desarrollado por barboza1104.
 
 Descripción
 Este repositorio contiene el código fuente de un proyecto en Python. Actualmente, no se ha proporcionado una descripción detallada del objetivo o funcionalidad del proyecto. Si eres el autor, se recomienda añadir una breve explicación sobre el propósito y alcance del mismo para que otros usuarios puedan comprenderlo fácilmente.
